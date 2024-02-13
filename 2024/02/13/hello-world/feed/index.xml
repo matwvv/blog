@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Hello world! へのコメント	</title>
-	<atom:link href="/2024/02/13/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>/2024/02/13/hello-world/</link>
+	<atom:link href="https://matwvv.github.io/blog/2024/02/13/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://matwvv.github.io/blog/2024/02/13/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Tue, 13 Feb 2024 10:13:34 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		WordPress コメントの投稿者 より		</title>
-		<link>/2024/02/13/hello-world/#comment-1</link>
+		<link>https://matwvv.github.io/blog/2024/02/13/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[WordPress コメントの投稿者]]></dc:creator>
 		<pubDate>Tue, 13 Feb 2024 10:13:34 +0000</pubDate>
-		<guid isPermaLink="false">/#comment-1</guid>
+		<guid isPermaLink="false">https://matwvv.github.io/blog/#comment-1</guid>
 
 					<description><![CDATA[こんにちは、これはコメントです。
 コメントの承認、編集、削除を始めるにはダッシュボードの「コメント」画面にアクセスしてください。
