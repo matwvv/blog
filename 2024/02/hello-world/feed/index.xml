@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for lifilog	</title>
-	<atom:link href="https://matwvv.github.io/blog/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://matwvv.github.io/blog/</link>
+	Comments on: Hello world!	</title>
+	<atom:link href="https://matwvv.github.io/blog/2024/02/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://matwvv.github.io/blog/2024/02/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Wed, 14 Feb 2024 04:47:06 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 	<item>
 		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
+		By: A WordPress Commenter		</title>
 		<link>https://matwvv.github.io/blog/2024/02/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
